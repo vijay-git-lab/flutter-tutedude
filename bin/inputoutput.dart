@@ -1,3 +1,4 @@
+// input and output example
 import 'dart:io';
 
 void main() {
